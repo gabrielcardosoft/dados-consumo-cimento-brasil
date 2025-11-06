@@ -1,0 +1,3 @@
+# Ignorar credenciais e variáveis locais
+.env
+credentials/service_account.json
